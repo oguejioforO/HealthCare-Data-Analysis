@@ -14,4 +14,5 @@ Key Focus Areas
 By structuring the dashboard into focused, intuitive sections, complex healthcare data was transformed into a clear and navigable experience. 
 This approach enabled non-technical stakeholders to easily explore insights, improving understanding and supporting better decision-making across patient care, hospital operations, and financial management.
 
-!(./Health.PNG)
+
+![Dashboard Preview](Health.PNG)
